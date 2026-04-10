@@ -1,21 +1,21 @@
-# 🎬 Smart Image Animator AI
+#  Smart Image Animator AI
 
 Smart Image Animator AI is an AI-powered web application that converts static images into dynamic animated videos. The system uses backend processing and modern frontend technologies to generate engaging visual content automatically.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📤 Upload Image
-- 🎥 Convert Image into Animated Video
-- 🤖 AI-based Processing Logic
-- 🌐 Interactive & Responsive UI
-- 📁 Output Video Storage
-- ⚡ Fast and Efficient Processing
+-  Upload Image
+-  Convert Image into Animated Video
+-  AI-based Processing Logic
+-  Interactive & Responsive UI
+-  Output Video Storage
+-  Fast and Efficient Processing
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### 🔹 Backend
 - Python
@@ -28,7 +28,7 @@ Smart Image Animator AI is an AI-powered web application that converts static im
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 Smart-Image-Animator/
 │
 ├── backend/
@@ -47,7 +47,7 @@ Smart-Image-Animator/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 ```bash
 git clone https://github.com/sudhakar-sudhanshu/Smart-Image-Animator.git
 cd Smart-Image-Animator

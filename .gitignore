@@ -1,0 +1,17 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Mac
+.DS_Store
+
+# Output files
+Output/
+
+# Env
+.env

@@ -1,30 +1,27 @@
-# 🎬 Image to Video Agent
+# 🎬 Smart Image Animator AI
 
-An AI-powered web application that converts static images into dynamic videos.
-
-This project allows users to upload images and automatically generate video content using backend processing and a modern frontend interface.
+Smart Image Animator AI is an AI-powered web application that converts static images into dynamic animated videos. The system uses backend processing and modern frontend technologies to generate engaging visual content automatically.
 
 ---
 
 ## 🚀 Features
 
 - 📤 Upload Image
-- 🎥 Convert Image to Video
-- 🧠 Backend Processing Logic
-- 🌐 Interactive Frontend UI
+- 🎥 Convert Image into Animated Video
+- 🤖 AI-based Processing Logic
+- 🌐 Interactive & Responsive UI
 - 📁 Output Video Storage
-- ⚡ Clean Project Structure
+- ⚡ Fast and Efficient Processing
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+### 🔹 Backend
 - Python
-- Video Processing Logic
-- Custom Script (main.py, video_generator.py)
+- Custom Video Processing Scripts (main.py, video_generator.py)
 
-### Frontend
+### 🔹 Frontend
 - React.js
 - Modern UI Components
 - API Integration
@@ -32,36 +29,46 @@ This project allows users to upload images and automatically generate video cont
 ---
 
 ## 📂 Project Structure
-image-to-video/
+Smart-Image-Animator/
 │
 ├── backend/
-│   ├── main.py
-│   ├── video_generator.py
+│ ├── main.py
+│ ├── video_generator.py
 │
 ├── frontend/
-│   └── image-to-video-ui/
+│ └── image-to-video-ui/
 │
-├── Output/
+├── output/
 └── README.md
+
+
+
 ---
 
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone Repository
-
 ```bash
-git clone https://github.com/Divy440/image-to-video.git
-cd image-to-video
+git clone https://github.com/sudhakar-sudhanshu/Smart-Image-Animator.git
+cd Smart-Image-Animator
 
-Backend Setup:-
+
 cd backend
 python -m venv venv
-source venv/bin/activate   # Mac/Linux
-pip install -r requirements.txt  # If available
+venv\Scripts\activate   # Windows
+pip install -r requirements.txt
 python main.py
 
-Frontend Setup:-
 cd frontend/image-to-video-ui
 npm install
 npm start
-Frontend will run on:http://localhost:3000
+
+Use Cases
+Content Creation
+Social Media Reels
+Marketing & Ads
+AI-based Media Generation
+
+
+Author
+Sudhakar Sudhanshu
